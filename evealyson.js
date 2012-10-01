@@ -1,4 +1,3 @@
-<script type="text/javascript">
 (function ($) {
   Drupal.behaviors.eveAlyson = {
     attach: function(context) {
@@ -7,4 +6,3 @@
     }
   }
 }) (jQuery);
-</script>
